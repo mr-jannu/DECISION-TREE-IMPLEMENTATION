@@ -1,6 +1,6 @@
 # decision-tree-python
 
-Decision tree implementation from scratch in python.
+Decision tree implementation in python.
 
 # Virtual environment
 
