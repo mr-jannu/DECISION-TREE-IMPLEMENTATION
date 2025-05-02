@@ -1,3 +1,15 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: JANNU SUSHMAN
+
+INTERN ID: CT04DK393
+
+DOMAIN: Machine Learning
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
 # decision-tree-python
 
 Decision tree implementation in python.
